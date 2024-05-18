@@ -37,7 +37,7 @@ public class MoveObject : MonoBehaviour
         }
 
         // Nesne tutuluyorsa hedefe ulaşıp ulaşmadığını kontrol et
-        if (isHoldingObject && Vector3.Distance(objectToMove.transform.position, target.position) < 0.1f)
+        if (isHoldingObject && Vector3.Distance(objectToMove.transform.position, target.position) < 0.5f)
         {
             // Nesne hedefe ulaştı
             isHoldingObject = false;
