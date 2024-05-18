@@ -1,0 +1,1337 @@
+fileFormatVersion: 2
+guid: a8add97270608054bad9ed8da0a01386
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Game Boy Advance - Bomberman Tournament - Gamma Interior_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 168
+        width: 231
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 241d12390dfaf62409f3edcbd07f190c
+      internalID: -1824105369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Bomberman Tournament - Gamma Interior_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 265
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c8dd54a584715d47990c90ee1b3c323
+      internalID: 1446663974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Bomberman Tournament - Gamma Interior_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 265
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eecf4dd2021630d48af67c22aeeb5756
+      internalID: -1228354316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Bomberman Tournament - Gamma Interior_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 265
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73e5b5c523f184a43a665919c9fb5453
+      internalID: -96484910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Bomberman Tournament - Gamma Interior_4
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 265
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f2653049e628b64e8e6c8e9249df564
+      internalID: -901552384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Bomberman Tournament - Gamma Interior_5
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 265
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1c2508ccd006a846aa37ce967dd90ca
+      internalID: 574835195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Bomberman Tournament - Gamma Interior_6
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 265
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc40c83fc5356734483a0620eb9edcaf
+      internalID: 1494247055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Bomberman Tournament - Gamma Interior_7
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 265
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21fb80020f4d99e4c8f372b785ae33e6
+      internalID: -1458228450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Bomberman Tournament - Gamma Interior_8
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 265
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8da2be8b5ac09df4aac0bdf8b4f87918
+      internalID: 1877867708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Bomberman Tournament - Gamma Interior_9
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 265
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5a51ee1033e50d498c7128cbfff7cf6
+      internalID: -1981920435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Bomberman Tournament - Gamma Interior_10
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 265
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c384ecb144c2a644dbc25eee46e2c741
+      internalID: 1952384757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Bomberman Tournament - Gamma Interior_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 201
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b380869eb7596b449a9f11f8dcdabc1
+      internalID: -868700894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Bomberman Tournament - Gamma Interior_12
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 201
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d97f47c9778248b49b83a013d2fc7061
+      internalID: -464443026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Bomberman Tournament - Gamma Interior_13
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 201
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1879c15d89d2be2418e8d9e1f04b7b93
+      internalID: 924258911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Bomberman Tournament - Gamma Interior_14
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 201
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 341472bef9f0ff2439f5dad36bbf80c9
+      internalID: 426901049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Bomberman Tournament - Gamma Interior_15
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 201
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 341e80d7d48a5824a9d62bdc6fbcc0ba
+      internalID: -1935984850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Bomberman Tournament - Gamma Interior_16
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 201
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 639b9a0b8303552439e1c8e680ec53f9
+      internalID: -1920210127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Bomberman Tournament - Gamma Interior_17
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 201
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9632b34aa8ad7ce459ee045ce5d3233a
+      internalID: 173906512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Bomberman Tournament - Gamma Interior_18
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 201
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1291cdafdc2ea8649a2d7a72bd7c07d0
+      internalID: 1122299246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Bomberman Tournament - Gamma Interior_19
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 201
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f03bdea8b50945746bcc42ee301582ff
+      internalID: 2072536629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Bomberman Tournament - Gamma Interior_20
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 201
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ab99667da9a1324ebcb4ea244d63b54
+      internalID: 291342570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Bomberman Tournament - Gamma Interior_21
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 201
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f65df50f5a3bd30419f31a6a08258acb
+      internalID: 1727272915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Bomberman Tournament - Gamma Interior_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 137
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ece5feb82cf0cd42bf4fcdce5f4cf9e
+      internalID: 1287371896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Bomberman Tournament - Gamma Interior_23
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 137
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f125a7ee4faaa446847a6672453f8b7
+      internalID: -173571562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Bomberman Tournament - Gamma Interior_24
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 137
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb091081806606a469a1998b329a9f4a
+      internalID: 69883747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Bomberman Tournament - Gamma Interior_25
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 137
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82ff360506e1c3c4693974dec1678f50
+      internalID: -807340710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Bomberman Tournament - Gamma Interior_26
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 137
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e908958774c61f4480e203c6fbfdb9e
+      internalID: -1513921624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Bomberman Tournament - Gamma Interior_27
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 137
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb0efe0418aebda459daa6a34057f834
+      internalID: -1752236333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Bomberman Tournament - Gamma Interior_28
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 137
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f9de0401c55a564fa4f131652d78263
+      internalID: -1442914169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Bomberman Tournament - Gamma Interior_29
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 137
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 750939a5685bf384fb9d7a1f82928b27
+      internalID: -1515567594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Bomberman Tournament - Gamma Interior_30
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 137
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 658147dfbacb7074da974c864a1eb26b
+      internalID: 1134766600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Bomberman Tournament - Gamma Interior_31
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 137
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ea0ea7231b4c284bbe660381cbd219e
+      internalID: -192739753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Bomberman Tournament - Gamma Interior_32
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 137
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44950e2052a84274db851539819b2af4
+      internalID: -1773871176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Bomberman Tournament - Gamma Interior_33
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 73
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ae6885bc75bdb74b91da37deb427aa5
+      internalID: -518033079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Bomberman Tournament - Gamma Interior_34
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 73
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a70b58638cae0b14f968abcd8d375c09
+      internalID: 1041829393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Bomberman Tournament - Gamma Interior_35
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 73
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8acf7b104283f724fa7284a836ce4b0c
+      internalID: 1050010132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Bomberman Tournament - Gamma Interior_36
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 73
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bc4836aea386594c99c5d89cce3da8e
+      internalID: 246684900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Bomberman Tournament - Gamma Interior_37
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 73
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffe6fee2e5ef2134c9225c9a0923d755
+      internalID: 583354177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Bomberman Tournament - Gamma Interior_38
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 73
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0b3244795b64ca408266179a0c7dd51
+      internalID: -588352889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Bomberman Tournament - Gamma Interior_39
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 73
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 803fb3755861b4c4296ae1af7266c2f9
+      internalID: 99766776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Bomberman Tournament - Gamma Interior_40
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 73
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 661c13c8439b4434294ccedbc491595e
+      internalID: -318644596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Bomberman Tournament - Gamma Interior_41
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 73
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fed6b2cc627f71d41bccadea5c450669
+      internalID: 1605187317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Bomberman Tournament - Gamma Interior_42
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 73
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 213a84f53fd4ada4f81af8e3e0e39165
+      internalID: 149505228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Bomberman Tournament - Gamma Interior_43
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 73
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83402420e91c01145b6c9acbe2af7d19
+      internalID: 1740426833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Bomberman Tournament - Gamma Interior_44
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 9
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9c6a03135c1d2f439a3e60e73fcdad2
+      internalID: -1828843983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Bomberman Tournament - Gamma Interior_45
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 9
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a81c83e56b9e6a34d881aa5cc87dd8b2
+      internalID: -1557789543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Bomberman Tournament - Gamma Interior_46
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 9
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5aacd7b482adbf844bc9ffda9b03264b
+      internalID: -469781708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Bomberman Tournament - Gamma Interior_47
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 9
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43dc32f74596c6d4bb5db8800da5bd8c
+      internalID: 240660063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Bomberman Tournament - Gamma Interior_48
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 9
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 605618d0cf7ac8148af494663994260f
+      internalID: 352750761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Bomberman Tournament - Gamma Interior_49
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 9
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cc045586388aa44284e47b2a917b15b
+      internalID: -1080310661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Bomberman Tournament - Gamma Interior_50
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 9
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d02853eec4d9684bb0d2de5fd670a7f
+      internalID: 924902083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Bomberman Tournament - Gamma Interior_51
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 9
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9334934121c3a8498374c8a20b7e82b
+      internalID: 556730661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Bomberman Tournament - Gamma Interior_52
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 9
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4a6e11075ebd0b49a685a6254755afa
+      internalID: 101239372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Bomberman Tournament - Gamma Interior_53
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 9
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91481b6f44951f64b965103058a017e0
+      internalID: 967362331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Bomberman Tournament - Gamma Interior_54
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 9
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0060be4a5b1e8bf4f891a5b89039c8eb
+      internalID: -1172911825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Game Boy Advance - Bomberman Tournament - Gamma Interior_0: -1824105369
+      Game Boy Advance - Bomberman Tournament - Gamma Interior_1: 1446663974
+      Game Boy Advance - Bomberman Tournament - Gamma Interior_10: 1952384757
+      Game Boy Advance - Bomberman Tournament - Gamma Interior_11: -868700894
+      Game Boy Advance - Bomberman Tournament - Gamma Interior_12: -464443026
+      Game Boy Advance - Bomberman Tournament - Gamma Interior_13: 924258911
+      Game Boy Advance - Bomberman Tournament - Gamma Interior_14: 426901049
+      Game Boy Advance - Bomberman Tournament - Gamma Interior_15: -1935984850
+      Game Boy Advance - Bomberman Tournament - Gamma Interior_16: -1920210127
+      Game Boy Advance - Bomberman Tournament - Gamma Interior_17: 173906512
+      Game Boy Advance - Bomberman Tournament - Gamma Interior_18: 1122299246
+      Game Boy Advance - Bomberman Tournament - Gamma Interior_19: 2072536629
+      Game Boy Advance - Bomberman Tournament - Gamma Interior_2: -1228354316
+      Game Boy Advance - Bomberman Tournament - Gamma Interior_20: 291342570
+      Game Boy Advance - Bomberman Tournament - Gamma Interior_21: 1727272915
+      Game Boy Advance - Bomberman Tournament - Gamma Interior_22: 1287371896
+      Game Boy Advance - Bomberman Tournament - Gamma Interior_23: -173571562
+      Game Boy Advance - Bomberman Tournament - Gamma Interior_24: 69883747
+      Game Boy Advance - Bomberman Tournament - Gamma Interior_25: -807340710
+      Game Boy Advance - Bomberman Tournament - Gamma Interior_26: -1513921624
+      Game Boy Advance - Bomberman Tournament - Gamma Interior_27: -1752236333
+      Game Boy Advance - Bomberman Tournament - Gamma Interior_28: -1442914169
+      Game Boy Advance - Bomberman Tournament - Gamma Interior_29: -1515567594
+      Game Boy Advance - Bomberman Tournament - Gamma Interior_3: -96484910
+      Game Boy Advance - Bomberman Tournament - Gamma Interior_30: 1134766600
+      Game Boy Advance - Bomberman Tournament - Gamma Interior_31: -192739753
+      Game Boy Advance - Bomberman Tournament - Gamma Interior_32: -1773871176
+      Game Boy Advance - Bomberman Tournament - Gamma Interior_33: -518033079
+      Game Boy Advance - Bomberman Tournament - Gamma Interior_34: 1041829393
+      Game Boy Advance - Bomberman Tournament - Gamma Interior_35: 1050010132
+      Game Boy Advance - Bomberman Tournament - Gamma Interior_36: 246684900
+      Game Boy Advance - Bomberman Tournament - Gamma Interior_37: 583354177
+      Game Boy Advance - Bomberman Tournament - Gamma Interior_38: -588352889
+      Game Boy Advance - Bomberman Tournament - Gamma Interior_39: 99766776
+      Game Boy Advance - Bomberman Tournament - Gamma Interior_4: -901552384
+      Game Boy Advance - Bomberman Tournament - Gamma Interior_40: -318644596
+      Game Boy Advance - Bomberman Tournament - Gamma Interior_41: 1605187317
+      Game Boy Advance - Bomberman Tournament - Gamma Interior_42: 149505228
+      Game Boy Advance - Bomberman Tournament - Gamma Interior_43: 1740426833
+      Game Boy Advance - Bomberman Tournament - Gamma Interior_44: -1828843983
+      Game Boy Advance - Bomberman Tournament - Gamma Interior_45: -1557789543
+      Game Boy Advance - Bomberman Tournament - Gamma Interior_46: -469781708
+      Game Boy Advance - Bomberman Tournament - Gamma Interior_47: 240660063
+      Game Boy Advance - Bomberman Tournament - Gamma Interior_48: 352750761
+      Game Boy Advance - Bomberman Tournament - Gamma Interior_49: -1080310661
+      Game Boy Advance - Bomberman Tournament - Gamma Interior_5: 574835195
+      Game Boy Advance - Bomberman Tournament - Gamma Interior_50: 924902083
+      Game Boy Advance - Bomberman Tournament - Gamma Interior_51: 556730661
+      Game Boy Advance - Bomberman Tournament - Gamma Interior_52: 101239372
+      Game Boy Advance - Bomberman Tournament - Gamma Interior_53: 967362331
+      Game Boy Advance - Bomberman Tournament - Gamma Interior_54: -1172911825
+      Game Boy Advance - Bomberman Tournament - Gamma Interior_6: 1494247055
+      Game Boy Advance - Bomberman Tournament - Gamma Interior_7: -1458228450
+      Game Boy Advance - Bomberman Tournament - Gamma Interior_8: 1877867708
+      Game Boy Advance - Bomberman Tournament - Gamma Interior_9: -1981920435
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -35,6 +35,12 @@ public class KediFigurHareket : MonoBehaviour
             hareket.y = hareketHizi * Time.deltaTime;
             Debug.Log("W tuþuna basýldý, yukarý hareket ediyor");
         }
+        else if (Input.GetKey(KeyCode.S))
+        {
+            hareket.x = hareketHizi * Time.deltaTime;  // Hýz deðeri pozitif
+            Debug.Log("S tuþuna basýldý, aþaðý hareket ediyor");
+            // Aþaðý hareket ettiði için yönünü sola döndür
+        }
 
         // Kedifigürü hareket ettir
         transform.Translate(hareket, Space.Self);

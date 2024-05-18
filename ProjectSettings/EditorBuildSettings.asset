@@ -6,6 +6,27 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: "Assets/Scenes/anamen\xFC.unity"
+    guid: 067925ca1fb399b419019f8e10d05623
+  - enabled: 1
+    path: Assets/Scenes/harita1.unity
+    guid: 42cbf377ae304da45a52a975e054977e
+  - enabled: 1
+    path: Assets/Scenes/harita2.unity
+    guid: 9372835140acf6045b5add9f588e4875
+  - enabled: 1
+    path: Assets/Scenes/harita3.unity
+    guid: 3dd4fabb42f77104ba73dbd51d598985
+  - enabled: 1
+    path: Assets/Scenes/harita4.unity
+    guid: ecc776a3dca3cf74093699d351ac6fd9
+  - enabled: 1
+    path: Assets/Scenes/harita5.unity
+    guid: a293e7a50387b5d4fa750fa60b26edf1
+  - enabled: 1
+    path: Assets/Scenes/harita6.unity
+    guid: aeeb28cd52e3b1e4594ec1cd326bc1fb
+  - enabled: 1
     path: Assets/Scenes/SampleScene.unity
     guid: 2cda990e2423bbf4892e6590ba056729
   m_configObjects: {}
